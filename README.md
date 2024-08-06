@@ -4,14 +4,17 @@
 ## Descripción
 
 Este proyecto es una herramienta para convertir documentos de Microsoft Word (`.docx`) 
-a formato PDF. La aplicación proporciona una interfaz gráfica simple usando `tkinter` para seleccionar archivos de Word y convertirlos a PDF. 
+a formato PDF. La aplicación proporciona una interfaz gráfica simple usando `tkinter` 
+para seleccionar archivos de Word y convertirlos a PDF. 
 También permite arrastrar y soltar archivos directamente en la ventana de la aplicación.
 
 ## Funcionalidades
 
-- **Selección de archivos**: Puedes seleccionar archivos `.docx` usando un botón de "Browse" o arrastrándolos y soltándolos en la ventana de la aplicación.
+- **Selección de archivos**: Puedes seleccionar archivos `.docx` usando un botón de "Browse" 
+o arrastrándolos y soltándolos en la ventana de la aplicación.
 - **Conversión a PDF**: Convierte archivos de Word seleccionados a PDF.
-- **Interfaz gráfica**: La interfaz es creada con `tkinter` y permite una experiencia de usuario intuitiva.
+- **Interfaz gráfica**: La interfaz es creada con `tkinter` y permite una experiencia 
+de usuario intuitiva.
 
 ## Instalación
 
