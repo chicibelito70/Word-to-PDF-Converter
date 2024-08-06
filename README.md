@@ -3,7 +3,9 @@
 
 ## Descripción
 
-Este proyecto es una herramienta para convertir documentos de Microsoft Word (`.docx`) a formato PDF. La aplicación proporciona una interfaz gráfica simple usando `tkinter` para seleccionar archivos de Word y convertirlos a PDF. También permite arrastrar y soltar archivos directamente en la ventana de la aplicación.
+Este proyecto es una herramienta para convertir documentos de Microsoft Word (`.docx`) 
+a formato PDF. La aplicación proporciona una interfaz gráfica simple usando `tkinter` para seleccionar archivos de Word y convertirlos a PDF. 
+También permite arrastrar y soltar archivos directamente en la ventana de la aplicación.
 
 ## Funcionalidades
 
@@ -65,7 +67,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-Para preguntas o soporte, puedes contactar a [tu nombre o dirección de correo electrónico].
+Para preguntas o soporte, puedes contactar a carlosvillavizar07@gmail.com.
 
 ```
 
