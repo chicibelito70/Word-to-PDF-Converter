@@ -24,7 +24,7 @@ def drop(event):
 
 def convert_to_pdf():
     if not listbox.file_paths:
-        messagebox.showerror("Error", "No Word file selected")
+        messagebox.showerror("Error", "No Word file selecteds")
         return
 
     for word_file_path in listbox.file_paths:
